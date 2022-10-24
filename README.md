@@ -4,4 +4,4 @@ Primary Libraries used are openCV and C Math.
 - The circle detection can be found here: https://docs.opencv.org/3.4/d4/d70/tutorial_hough_circle.html
 - The formula to calculate BHN can be found here: https://www.easycalculation.com/physics/classical-physics/brinell-hardness.php
 
-This is just a collection of open source material or documentation provided on the internet with relevant links given. I do not own or claim any ownership neither do I have any monetary benefits from the material in this repository.
+This is just a collection of open source material or documentation provided on the internet with relevant links given. I do not own or claim any ownership over this material neither do I have any monetary benefits from this material in this repository.
